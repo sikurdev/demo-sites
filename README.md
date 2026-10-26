@@ -1,2 +1,3 @@
 # demo-sites
-Демо-версії односторінкових сайтів (noindex). Generated static output only.
+
+Generated static demo pages (noindex). Source generator is kept privately.
