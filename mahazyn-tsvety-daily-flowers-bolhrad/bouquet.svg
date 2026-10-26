@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" fill="none">
+<defs>
+<g id="leaf"><path d="M0 0C-33-7-52-31-48-66-12-52 5-27 0 0Z" fill="#8c9782"/><path d="M0 0-36-48" stroke="#647663" stroke-width="1.3" opacity=".5"/></g>
+<g id="petal"><path d="M0 5C-24-8-33-33-19-46-9-55 1-45 3-38 9-49 24-45 25-32 26-16 12-1 0 5Z" fill="currentColor"/><path d="M0 3C-7-12-8-28-5-38" stroke="#9c5266" opacity=".15" stroke-width="1"/></g>
+<g id="bloom"><use href="#petal"/><use href="#petal" transform="rotate(60)"/><use href="#petal" transform="rotate(120)"/><use href="#petal" transform="rotate(180)"/><use href="#petal" transform="rotate(240)"/><use href="#petal" transform="rotate(300)"/><g transform="scale(.65) rotate(25)"><use href="#petal"/><use href="#petal" transform="rotate(72)"/><use href="#petal" transform="rotate(144)"/><use href="#petal" transform="rotate(216)"/><use href="#petal" transform="rotate(288)"/></g><circle r="11" fill="#c6a37d"/><circle r="6" fill="#7f6552"/><g fill="#f3d4ac"><circle cx="-5" cy="-3" r="1.8"/><circle cx="2" cy="-7" r="1.5"/><circle cx="5" cy="1" r="1.4"/><circle cx="-1" cy="4" r="1.5"/></g></g>
+<g id="sprig"><path d="M0 0C-5-59 4-107 29-151" stroke="#79866c" stroke-width="3"/><use href="#leaf" transform="translate(0 -20) rotate(-20) scale(.6)"/><use href="#leaf" transform="translate(0 -45) rotate(82) scale(.55)"/><use href="#leaf" transform="translate(2 -64) rotate(-20) scale(.5)"/><use href="#leaf" transform="translate(9 -90) rotate(82) scale(.45)"/><use href="#leaf" transform="translate(14 -115) rotate(15) scale(.4)"/></g>
+</defs>
+<ellipse cx="306" cy="565" rx="105" ry="10" fill="#aa8c83" opacity=".12"/>
+<path d="m142 280 148-81 171 87-118 263-86-6Z" fill="#e4d2bc"/>
+<path d="m142 280 148-81-5 191Z" fill="#f8efe1"/>
+<path d="m290 199 171 87-112 104Z" fill="#dfcbb5"/>
+<g stroke="#768368" stroke-width="4" stroke-linecap="round"><path d="m305 496-98-265m100 265 77-271m-80 270 2-326m-3 323-60-358m63 363 107-198m-109 201-134-172"/></g>
+<g><use href="#sprig" transform="translate(272 372) rotate(-43)"/><use href="#sprig" transform="translate(336 384) rotate(48)"/><use href="#sprig" transform="translate(290 277) rotate(-20)"/><use href="#sprig" transform="translate(340 270) rotate(40)"/><use href="#sprig" transform="translate(235 278) rotate(-50) scale(.8)"/></g>
+<path d="M334 353c38-81 60-122 102-157" stroke="#8e9579" stroke-width="2"/>
+<g fill="#f8f2df" stroke="#d5c8af" stroke-width=".7"><circle cx="423" cy="205" r="8"/><circle cx="438" cy="188" r="9"/><circle cx="447" cy="207" r="7"/><circle cx="414" cy="223" r="7"/><circle cx="430" cy="229" r="8"/><circle cx="401" cy="244" r="8"/><circle cx="418" cy="251" r="7"/></g>
+<use href="#bloom" transform="translate(242 176) rotate(-20) scale(.92)" color="#cd92a2"/>
+<use href="#bloom" transform="translate(339 175) rotate(15) scale(.81)" color="#f8e9dd"/>
+<use href="#bloom" transform="translate(203 254) rotate(-14) scale(1.08)" color="#f4d9d4"/>
+<use href="#bloom" transform="translate(388 256) rotate(22) scale(1.06)" color="#c9879c"/>
+<use href="#bloom" transform="translate(292 248) rotate(-8) scale(1.15)" color="#e6b4c0"/>
+<use href="#bloom" transform="translate(260 334) rotate(27) scale(.89)" color="#fbebe0"/>
+<use href="#bloom" transform="translate(345 335) rotate(-14) scale(.85)" color="#dc9fac"/>
+<use href="#leaf" transform="translate(233 367) rotate(-40) scale(.6)"/>
+<use href="#leaf" transform="translate(356 374) rotate(94) scale(.7)"/>
+<path d="m162 337 138 80 135-90-92 222-86-6Z" fill="#f8eee0"/>
+<path d="m162 337 138 80-43 126Z" fill="#eee0cc"/>
+<path d="m300 417 135-90-92 222-39-59Z" fill="#f5e7d5"/>
+<path d="m300 417 43 132M185 356l72 187" stroke="#d9c6af" stroke-width="1.5" opacity=".65"/>
+<path d="m260 464 76 1-5 18-67-3Z" fill="#a76d80"/>
+<path d="M300 475c-78-63-75 32 0 0-3-57 78-37 0 0Z" stroke="#99536b" stroke-width="6" stroke-linecap="round"/>
+<path d="M300 474c-9 34-27 46-36 59l-4-15-15 2c20-20 38-32 55-46Z" fill="#b77d91"/>
+<path d="M302 475c14 26 17 43 14 63l13-11 8 7c5-28-14-48-35-59Z" fill="#99536b"/>
+<circle cx="300" cy="474" r="6" fill="#8f4c64"/>
+</svg>
