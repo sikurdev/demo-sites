@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="760" viewBox="0 0 720 760" fill="none">
+<defs>
+<filter id="shadow" x="-60%" y="-40%" width="220%" height="200%"><feGaussianBlur stdDeviation="15"/></filter>
+<pattern id="paper" width="7" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".6" fill="#85745d" opacity=".08"/></pattern>
+</defs>
+<rect width="720" height="760" fill="#eae4d8"/>
+<path d="M0 0h280L720 537V760L0 36Z" fill="#f5f1e8"/>
+<path d="M0 70 570 760H436L0 224Z" fill="#ded8cb" opacity=".4"/>
+<rect width="720" height="760" fill="url(#paper)"/>
+<ellipse cx="369" cy="620" rx="225" ry="57" fill="#978a75" opacity=".2" filter="url(#shadow)"/>
+<path d="M118 542a244 105 0 0 0 488 0v23a244 105 0 0 1-488 0Z" fill="#cec6b6"/>
+<ellipse cx="362" cy="539" rx="244" ry="105" fill="#f9f5ec"/>
+<ellipse cx="362" cy="536" rx="220" ry="86" stroke="#e4ded1" stroke-width="2"/>
+<ellipse cx="333" cy="551" rx="83" ry="30" fill="#9e8c78" opacity=".15" filter="url(#shadow)"/>
+<g transform="rotate(-12 282 439)">
+<rect x="217" y="369" width="124" height="176" rx="35" fill="#bca08c"/>
+<rect x="226" y="377" width="106" height="156" rx="28" fill="#d3b6a1"/>
+<path d="M235 410v72" stroke="#e9d4c0" stroke-width="7" stroke-linecap="round"/>
+<rect x="238" y="260" width="83" height="124" rx="13" fill="#3c493b"/>
+<path d="M248 275v94" stroke="#59644c" stroke-width="4" stroke-linecap="round"/>
+<path d="M258 460h45m-36 9h27" stroke="#806956" stroke-width="2"/>
+</g>
+<g transform="rotate(12 435 480)">
+<rect x="388" y="439" width="99" height="123" rx="27" fill="#f0ece3" stroke="#d6cdbf" stroke-width="2"/>
+<rect x="400" y="351" width="75" height="98" rx="10" fill="#b4ad99"/>
+<path d="M409 363v73" stroke="#cbc5b6" stroke-width="4" stroke-linecap="round"/>
+<path d="M419 497h37m-29 8h21" stroke="#b3a38e" stroke-width="2"/>
+</g>
+<path d="M555 475C493 380 517 248 586 155" stroke="#727c59" stroke-width="3"/>
+<path d="M534 402c-51-7-83-43-76-81 43 8 72 43 76 81ZM524 333c-22-48-8-85 24-111 22 42 13 78-24 111ZM544 252c-1-49 25-87 61-94-2 48-20 76-61 94ZM529 371c39-39 82-43 107-21-30 37-67 45-107 21ZM554 455c26-36 57-47 91-35-17 34-48 48-91 35Z" fill="#8b9272"/>
+<path d="M159 225c12-14 25-16 36-6 11 11 9 25-6 42l-30 34-28-34c-15-17-17-31-6-42 10-10 23-8 34 6Z" stroke="#ad9b82" stroke-width="1.4" opacity=".7"/>
+</svg>
